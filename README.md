@@ -40,8 +40,8 @@ A Python script that automatically organizes files in a directory into categoriz
 
 
 
-نسخ
-تحرير
+
+
 
 
 # 📌 Notes
@@ -65,7 +65,7 @@ Temporary files (e.g. .crdownload, .tmp, hidden files) are skipped.
 👨‍💻 Author
 Developed by Mohamed Mosaad 
 
-نسخ
+
 
 
 
